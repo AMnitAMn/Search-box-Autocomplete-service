@@ -1,0 +1,13 @@
+.dynamic-li{
+    padding:5px;
+}
+
+.dynamic-li:hover{
+    background:grey;
+    font-size:120%;
+}
+
+#suggestions{
+    list-style: none;
+    width:50%;
+}
